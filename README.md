@@ -98,6 +98,7 @@ Visualizations included: feature distributions, confusion matrices, ROC curves
 
 Easy interpretability using scikit-learn and matplotlib
 
+Link to presentation: https://www.canva.com/design/DAGqshQIGLA/rvklBj5QNBisTV3VQUy3Aw/edit
 
 
 
